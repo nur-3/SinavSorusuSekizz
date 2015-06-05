@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\SınavSekizinciSoru\SınavSekizinciSoru\bin\Debug\SınavSekizinciSoru.exe.config
+C:\Users\UseR\documents\visual studio 2012\Projects\SınavSekizinciSoru\SınavSekizinciSoru\bin\Debug\SınavSekizinciSoru.exe
+C:\Users\UseR\documents\visual studio 2012\Projects\SınavSekizinciSoru\SınavSekizinciSoru\bin\Debug\SınavSekizinciSoru.pdb
+C:\Users\UseR\documents\visual studio 2012\Projects\SınavSekizinciSoru\SınavSekizinciSoru\obj\Debug\SınavSekizinciSoru.csprojResolveAssemblyReference.cache
+C:\Users\UseR\documents\visual studio 2012\Projects\SınavSekizinciSoru\SınavSekizinciSoru\obj\Debug\SınavSekizinciSoru.exe
+C:\Users\UseR\documents\visual studio 2012\Projects\SınavSekizinciSoru\SınavSekizinciSoru\obj\Debug\SınavSekizinciSoru.pdb
